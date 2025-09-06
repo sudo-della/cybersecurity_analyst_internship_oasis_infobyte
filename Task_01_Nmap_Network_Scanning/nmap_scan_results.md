@@ -24,13 +24,13 @@ Table(IP address, port, service,state, significance)
 
 
 ## Screenshots
-![Checking IP addresses](cybersecurity_analyst_internship_oasis_infobyte/Task_01_Nmap_Network_Scanning/checking_ip.png)
+![Checking IP addresses](cybersecurity_analyst_internship_oasis_infobyte/Task_01_Nmap_Network_Scanning/screenshots/checking_ip.png)
 
-![Ping Scan](cybersecurity_analyst_internship_oasis_infobyte/Task_01_Nmap_Network_Scanning/ping_scan.png)
+![Ping Scan](cybersecurity_analyst_internship_oasis_infobyte/Task_01_Nmap_Network_Scanning/screenshots/ping_scan.png)
 
-![Checking for Open Ports](cybersecurity_analyst_internship_oasis_infobyte/Task_01_Nmap_Network_Scanning/open_ports.png)
+![Checking for Open Ports](cybersecurity_analyst_internship_oasis_infobyte/Task_01_Nmap_Network_Scanning/screenshots/open_ports.png)
 
-![Detection scan](cybersecurity_analyst_internship_oasis_infobyte/Task_01_Nmap_Network_Scanning/detection_scan.png)
+![Detection scan](cybersecurity_analyst_internship_oasis_infobyte/Task_01_Nmap_Network_Scanning/screenshots/detection_scan.png)
 
 
 ## Analysis and Significance
