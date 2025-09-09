@@ -20,7 +20,15 @@ This report documents the findings collected from scanning a Network on a local 
 ## Nmap Scan Results
 ### Open ports and services found
 
-Table(IP address, port, service,state, significance)
+| IP Address   | Port | Service        | State | Significance |
+|-------------|------|----------------|-------|-------------|
+| 10.0.2.2    | 135  | msrpc          | open  | Windows RPC port; used for remote procedure calls. |
+| 10.0.2.2    | 445  | microsoft-ds   | open  | File sharing service; could be vulnerable. |
+| 10.0.2.2    | 808  | mc-nmf         | open  | Proxy/web service; open port could allow unauthorized access. |
+| 10.0.2.2    | 9001 | http           | open  | Microsoft HTTPAPI; could be exploited if exposed. |
+| 10.0.2.3    | 53   | domain         | open  | DNS service; critical for name resolution. |
+| 10.0.2.15   | —    | —              | closed| No open ports detected; safe configuration. |
+
 
 
 ## Screenshots
