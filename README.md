@@ -41,6 +41,7 @@ Link to your reports per task:
 
 ## Screenshots
 ![Nmap Scan](Task_01_Nmap_Network_Scanning/screenshots/ping_scan.png)
+```
 
 ## Conclusion
 This internship project gave me hands-on experience with cybersecurity tools, vulnerability scanning, and report writing.  
