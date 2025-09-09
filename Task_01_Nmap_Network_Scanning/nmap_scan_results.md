@@ -47,3 +47,4 @@ This report documents the findings collected from scanning a Network on a local 
 - The local Virtual Mechine of "10.0.2.15" shows all the ports are closed, which shows it is a good security posture for a test machine.
 
 ## Conclusion
+This part of the project demostrated how to identify active hosts, open ports and running services through the use of Nmap. The findingd show the improtance of monitoring network services and securing open ports to reduce vulnerabilites.
