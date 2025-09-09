@@ -32,7 +32,12 @@ This project consists of different tasks of my **Cybersecurity Analyst Internshi
 
 ---
 
-### 7. **Reports**
+### 7. ***Tools & Technologies Used***
+- Nmap – Network discovery and security auditing
+- Kali Linux – Penetration testing environment
+- Wireshark – Network traffic analysis
+
+### 9. **Reports**
 Link to your reports per task:  
 ```markdown
 ## Reports
@@ -42,6 +47,11 @@ Link to your reports per task:
 ## Screenshots
 ![Nmap Scan](Task_01_Nmap_Network_Scanning/screenshots/ping_scan.png)
 ```
+
+### 10. ***Author***
+- Daniella Kalombo
+- Cybersecurity Analyst Intern @Oasis Infobyte
+
 
 ## Conclusion
 This internship project gave me hands-on experience with cybersecurity tools, vulnerability scanning, and report writing.  
