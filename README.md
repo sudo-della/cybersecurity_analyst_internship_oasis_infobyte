@@ -36,7 +36,7 @@ This project consists of different tasks of my **Cybersecurity Analyst Internshi
 Link to your reports per task:  
 ```markdown
 ## Reports
-- [Task 1: Nmap Network Scanning](Task_01_Nmap_Network_Scanning/report.md)  
+- [Task 1: Nmap Network Scanning](Task_01_Nmap_Network_Scanning/nmap_scan_results.md)  
 - [Task 2: Firewall Configuration](Task_02_Firewall_Configuration/report.md)  
 
 ## Screenshots
