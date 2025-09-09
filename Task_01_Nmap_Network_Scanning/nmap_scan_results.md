@@ -42,6 +42,8 @@ This report documents the findings collected from scanning a Network on a local 
 
 
 ## Analysis and Significance
-
+- The hosts with open ports such as "10.0.2.2" and "10.0.2.3" need to be monitored and secured to prevent unauthorized access.
+- Each Open port aligns to a service that has a possibility of being exploited if it is not updated or configured correctly.
+- The local Virtual Mechine of "10.0.2.15" shows all the ports are closed, which shows it is a good security posture for a test machine.
 
 ## Conclusion
